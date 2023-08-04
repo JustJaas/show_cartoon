@@ -15,8 +15,8 @@ Esta aplicación usa el API del siguiente link `https://rickandmortyapi.com`, la
 
 ## Login info
 
-- Usuario: user
-- Contraseña: 123456
+- Usuario: `user`
+- Contraseña: `123456`
 
 ## Instalación
 
