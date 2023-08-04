@@ -2,6 +2,11 @@
 
 Aplicación en Flutter de "Rick and Morty".
 
+## Capturas de Pantalla
+
+![Captura de pantalla 1](assets/img/screenshot_1.png)
+![Captura de pantalla 2](assets/img/screenshot_2.png)
+
 ## Descripción
 
 Esta aplicación usa el API del siguiente link `https://rickandmortyapi.com`, la cual tiene como objetivo principal obtener y desplegar información sobre el show de televisión llamado “Rick and Morty”.
