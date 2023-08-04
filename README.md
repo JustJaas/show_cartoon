@@ -4,11 +4,11 @@ Aplicación en Flutter de "Rick and Morty".
 
 ## Descripción
 
-Esta aplicación usa el API de "Rick and Morty" del siguiente link "https://rickandmortyapi.com", la cual tiene como objetivo principal obtener y desplegar información sobre el show de televisión llamado “Rick and Morty”.
+Esta aplicación usa el API de "Rick and Morty" del siguiente link `https://rickandmortyapi.com`, la cual tiene como objetivo principal obtener y desplegar información sobre el show de televisión llamado “Rick and Morty”.
 
 ## Login info
 
-- Usuario: user,
+- Usuario: user
 - Contraseña: 123456
 
 ## Instalación
