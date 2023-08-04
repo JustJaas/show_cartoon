@@ -4,7 +4,7 @@ Aplicación en Flutter de "Rick and Morty".
 
 ## Descripción
 
-Esta aplicación usa el API de "Rick and Morty" del siguiente link `https://rickandmortyapi.com`, la cual tiene como objetivo principal obtener y desplegar información sobre el show de televisión llamado “Rick and Morty”.
+Esta aplicación usa el API del siguiente link `https://rickandmortyapi.com`, la cual tiene como objetivo principal obtener y desplegar información sobre el show de televisión llamado “Rick and Morty”.
 
 ## Login info
 
@@ -14,7 +14,7 @@ Esta aplicación usa el API de "Rick and Morty" del siguiente link `https://rick
 ## Instalación
 
 1. Clona este repositorio: `git clone https://github.com/JustJaas/show_cartoon.git`
-2. Navega a la carpeta del proyecto: `cd tu-proyecto`
+2. Navega a la carpeta del proyecto: `cd show_cartoon`
 3. Instala las dependencias: `flutter pub get`
 
 ## Uso
