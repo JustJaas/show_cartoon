@@ -6,6 +6,8 @@ Aplicación en Flutter de "Rick and Morty".
 
 ![Captura de pantalla 1](assets/img/screenshot_1.png)
 ![Captura de pantalla 2](assets/img/screenshot_2.png)
+<img src="assets/img/screenshot_1.png" alt="Captura de pantalla 1" width="300"/>
+<img src="assets/img/screenshot_2.png" alt="Captura de pantalla 2" width="300"/>
 
 ## Descripción
 
